@@ -1,5 +1,70 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+.blue_cell {
+  background-color: #2244aa;
+  color: white;
+  font-size: 18px;
+  line-height: 26px;
+  padding: 10px;
+  border: 1px solid #dedede;
+}
+
+.table {
+  border: 1px solid #dedede;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.white_cell th {
+  font-size: 16px;
+  line-height: 22px;
+  padding: 10px;
+  border: 1px solid #dedede;
+}
+
+.white_cell :first-child {
+  background-color: #2244aa;
+  color: white;
+  font-size: 18px;
+  line-height: 26px;
+  padding: 10px;
+}
+
+.gray_cell th {
+  font-size: 16px;
+  line-height: 22px;
+  padding: 10px;
+  background-color: #ecf1f2;
+  border: 1px solid #dedede;
+}
+
+.gray_cell :first-child {
+  background-color: #2244aa;
+  color: white;
+  font-size: 18px;
+  line-height: 26px;
+  padding: 10px;
+}
+
+.total_cell {
+  border-top: 2px dashed #000;
+}
+
+.total_cell th {
+  font-size: 16px;
+  line-height: 22px;
+  padding: 10px;
+  border: 1px solid #dedede;
+}
+
+.total_cell :first-child {
+  background-color: #2244aa;
+  color: white;
+  font-size: 18px;
+  line-height: 26px;
+  padding: 10px;
+}
+
 
 /* 回答はここに書いてね */
