@@ -51,5 +51,34 @@
   box-sizing: border-box;
 }
 
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+
+.font0 {
+  font-size: 0;
+}
+
+.inline_block_left {
+  display: inline-block;
+  width: 300px;
+  box-sizing: border-box;
+  vertical-align: top;
+}
+
+.inline_block_right {
+  display: inline-block;
+  width: 100%;
+  box-sizing: border-box;
+  vertical-align: top;
+  margin-left: -300px;
+  padding-left: 350px;
+}
+
+.text {
+  font-size: 16px;
+}
 
 /* 回答はここに書いてね */
