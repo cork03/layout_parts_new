@@ -28,17 +28,7 @@
   position: relative;
 }
 
-.number1::before{
-  width: 20px;
-  height: 20px;
-  background-color: black;
-  z-index: 20;
-  position: absolute;
-  content: "";
-  display: block;
-  top: 80px;
-  left: 0;
-}
+
 
 .number2 {
   left: 280px;

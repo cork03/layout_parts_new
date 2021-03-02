@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-.blue_cell {
+.table__head tr th {
   background-color: #2244aa;
   color: white;
   font-size: 18px;
