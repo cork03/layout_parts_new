@@ -14,7 +14,7 @@
   background-color: #eff3f4;
 }
 
-.content_box :first-child {
+.content_box .content:first-child {
   margin-left: 0;
 }
 
