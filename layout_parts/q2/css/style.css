@@ -15,12 +15,12 @@
   margin: 0 auto;
 }
 
-.img1 {
+.left {
   margin: 0 20px 10px 0;
   float: left;
 }
 
-.img2 {
+.right {
   margin: 0 0 10px 20px;
   float: right;
 }
