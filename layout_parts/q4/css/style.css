@@ -7,12 +7,13 @@
 }
 
 .q4_wrapper :first-child{
-  margin-bottom: 20px;
+  margin-top: 0;
 }
 
 .table {
   display: table;
   width: 100%;
+  margin-top: 20px;
 }
 
 .table_cell {
@@ -21,14 +22,17 @@
   text-align: center;
 }
 
+.auto {
+  width: auto;
+}
+
 .orange {
   width: 100px;
   background-color: #fdc8b8;
 }
 
 .pink {
-  width: auto;
-  background-color: #e0adb9;
+  background-color: #e0abd9;
 }
 
 .skyblue {
@@ -37,12 +41,10 @@
 }
 
 .yellow {
-  width: auto;
   background-color: #e5d32e;
 }
 
 .red {
-  width: auto;
   background-color: #ec8f9a;
 }
 
