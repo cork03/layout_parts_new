@@ -15,7 +15,7 @@
 }
 
 /* q7-1 */
-.q7_1_wrapper :first-child {
+.q7_1_wrapper .q7_1_left:first-child {
   margin-left: 0;
 }
 
@@ -40,8 +40,7 @@
 
 /* q7-3 */
 .q7_3_wrapper {
-  letter-spacing: -1em;
-  white-space: nowrap;
+  font-size: 0;
 }
 
 .q7_3_wrapper .text:first-child{
@@ -53,8 +52,6 @@
   vertical-align: middle;
   margin-left: 50px;
   width: 225px;
-  letter-spacing: normal;
-  white-space: normal;
 }
 
 /* q7-4 */
